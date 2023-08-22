@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Viishal-rajput07
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 💞
+- 💞 Fast learner
+- ✨ Fitness Freak
 
 <!---
 Viishal-rajput07/Viishal-rajput07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
